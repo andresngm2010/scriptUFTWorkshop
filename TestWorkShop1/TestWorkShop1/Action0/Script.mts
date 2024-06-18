@@ -1,1 +1,2 @@
-﻿RunAction "Action1", oneIteration
+﻿RunAction "IngresarPlaca", oneIteration
+RunAction "PagarMulta", oneIteration
